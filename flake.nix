@@ -24,6 +24,8 @@
           algorithms
           minitoc
           wrapfig
+          wasy
+          wasysym
           capt-of
           greek-fontenc
           algorithmicx
@@ -50,6 +52,7 @@
           cm-super
           cbfonts
           collection-langgreek
+          rsfs
           ;
       };
 
